@@ -1,10 +1,23 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFC26F,100:FFC000)
 
+<div align="center">
+
+  
+![cafelogo](https://github.com/Cafe-Manage-Service-CAFE-IN/.github/assets/102462534/58a27f44-79ee-4366-ba11-fb03174b8a1e)
+
+<br/>
+
 # 🍰 카페 인 - Cafe in 🍩
+
+<br/>
 
 카페에 꼭 필요한 서비스 ! 메뉴 주문 및 카페 운영 관리 서비스 <카페 인>입니다. 😸
 
 카페 인의 프로젝트 진행 방식 및 과정은 [Wiki 페이지](https://github.com/Cafe-Manage-Service-CAFE-IN/cafe-in/wiki)에서 확인할 수 있습니다.
+
+</div>
+
+<br/>
 
 <br>
 
