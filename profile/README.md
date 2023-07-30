@@ -15,9 +15,17 @@
 
 카페 인의 프로젝트 진행 방식 및 과정은 [Wiki 페이지](https://github.com/Cafe-Manage-Service-CAFE-IN/cafe-in/wiki)에서 확인할 수 있습니다.
 
+<br/>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCafe-Manage-Service-CAFE-IN&count_bg=%234FC2EF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+
 </div>
 
 <br/>
+
+
 
 <br>
 
